@@ -1,5 +1,6 @@
-Feature: Accoubt Type
+Feature: Account Type
 
+  @wip
   Scenario: first user
     Given User should be on the login page
     When User should input "mike@gmail.com" and "mike1234"

@@ -25,11 +25,11 @@ Feature: Krafttech Log in Test
     When The user enters Rosa credentials
     Then The user should be able to login
 
-
+@sss
   Scenario: User should be able to login with valid credentials
     When User should input login information
     Then User should be on home page
-
+@wip
   Scenario: Login with parameters
     When User should input "user22@test.com" and "Test123456"
     Then User should be on home page
