@@ -4,6 +4,7 @@ import com.krafttech.pages.DashboardPage;
 import com.krafttech.pages.LoginPages;
 import com.krafttech.utilities.BrowserUtils;
 import com.krafttech.utilities.ConfigurationReader;
+import com.krafttech.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
